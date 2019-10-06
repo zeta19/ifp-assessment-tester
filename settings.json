@@ -1,0 +1,7 @@
+{
+	"username": "jane",
+	"password": "123456789",
+	"server_url": "http://localhost:8000",
+	"interval": 1
+}
+
